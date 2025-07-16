@@ -1,3 +1,5 @@
+NAME: SAHIL LABANA INTERNSHIP @ CODETECH IT SOLUTIONS DOMAIN: PYTHON PROGRAMMING DURATION: 17th June 2025 to 17th July 2025
+
 Objective:
 Build a machine learning model to classify SMS messages as spam or not spam.
 
